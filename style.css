@@ -1,0 +1,31 @@
+* {
+    background-color: #fdbe47;
+    font-family: Tahoma, sans-serif
+}
+
+h1 {
+    color:#8f3030;
+    font-size: 56px;
+    text-align: center;
+}
+
+.img-container {
+    text-align: center;
+}
+
+.chef {
+    height: auto;
+    width: 300px;
+    padding-bottom: 50px;
+}
+
+.recipe-links {
+    text-align: center;
+}
+
+.link {
+    display: block;
+    padding: 5px;
+    color: #8f3030;
+    font-size: 30px;
+}
