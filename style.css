@@ -19,6 +19,11 @@ h1 {
     padding-bottom: 50px;
 }
 
+.braised-chicken-img {
+    height: auto;
+    width: 500px
+}
+
 .recipe-links {
     text-align: center;
 }
@@ -28,4 +33,8 @@ h1 {
     padding: 5px;
     color: #8f3030;
     font-size: 30px;
+}
+
+.recipe-text {
+    color:#8f3030;
 }
